@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "",
+    'name': "Quality mrp workorder pass pdf",
     
     'summary': "",
   
@@ -10,15 +10,15 @@
 
     'category': '',
   
-    'version': '18.0.0.1',
+    'version': '16.0.0.1',
   
-    'website'METTERE LINK GITHUB completo: "https://github.com/ingegniamo",
+    'website': "https://github.com/ingegniamo/quality_mrp_workorder_pass_pdf",
 
     # any module necessary for this one to work correctly
-    'depends': [],
+    'depends': ['quality_mrp_workorder','quality_control'],
     
     # always loaded
-    'data': [],
+    'data': ['views/quality_views.xml'],
 
     'application': False,
 }

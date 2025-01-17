@@ -1,19 +1,7 @@
-Title
+Quality mrp workorder pass pdf
 =======
 
-Description
-==============
-
-Configuration
-=============
-
-Usage
-=====
-Description usage
-
-
-Dependencies
-===============
+This module will pass the worksheet to the quality checks
 
 
 Credits
@@ -27,4 +15,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.consulting>
+* Michele <dicroce.m@stesi.consulting>
